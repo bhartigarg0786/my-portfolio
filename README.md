@@ -10,7 +10,7 @@ A personal portfolio website showcasing my projects, skills, and experience as a
 - Vite
 - JavaScript (ES6+)
 - HTML5
-- CSS3
+- TailwindCSS
 - Netlify (Deployment)
 
 ## ✨ Features
@@ -26,10 +26,14 @@ This project was built to:
 - Practice React component-based architecture
 - Improve UI/UX and deployment skills
 
-## 📌 Future Improvements
-- Dark mode
-- Performance optimization
-- More project case studies
+✅ “Getting Started / Installation” Section for YOUR Portfolio
+## 🏁 Getting Started
+
+To run this project locally:
+git clone https://github.com/bhartigarg0786/your-repo-name.git
+cd your-repo-name
+npm install
+npm run dev
 
 ## 👤 Author
 **Bharti Garg**  
