@@ -26,7 +26,7 @@ This project was built to:
 - Practice React component-based architecture
 - Improve UI/UX and deployment skills
 
-✅ “Getting Started / Installation” Section for YOUR Portfolio
+
 ## 🏁 Getting Started
 
 To run this project locally:
